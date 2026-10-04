@@ -134,3 +134,7 @@ Elegant display: Gold Ring is shown on a luxury velvet stand.
 Conclusion
 The Jewelry Display System demonstrates the Bridge Design Pattern by separating jewelry display types from display styles.
 The system allows different jewelry types to work with different display styles without changing the abstraction classes. This makes the design flexible, reusable, and easier to extend.
+## Git Commit History
+
+- Create Bridge pattern project
+- Add project documentation
